@@ -1,4 +1,7 @@
-﻿PUBLIC HOTSPOT. 
+---
+layout: post
+title: PUBLIC HOTSPOT!
+---
 
 ***Abstract***
 
